@@ -1,3 +1,4 @@
+cd eta
 call .\env\Scripts\activate
-echo (setq *user-name* %1) > io/sessionInfo.lisp
+echo (setq *user-name* "Dr. Tom Carroll") > io/sessionInfo.lisp
 sbcl --load "start.lisp"
