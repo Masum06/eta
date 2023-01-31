@@ -52,11 +52,11 @@
 
 
 ;; (prognosis)
-?e3 ((set-of ^me ^you) ask-about-prognosis.v)
+;; ?e3 ((set-of ^me ^you) ask-about-prognosis.v)
 
 
 ;; (options)
-?e4 ((set-of ^me ^you) ask-about-options.v)
+;; ?e4 ((set-of ^me ^you) ask-about-options.v)
 
 
 ;; (say-bye)
